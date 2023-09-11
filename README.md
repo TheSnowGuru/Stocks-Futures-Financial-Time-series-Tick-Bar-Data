@@ -6,7 +6,28 @@ Welcome to our open-source financial data repository! This repository provides h
 
 ## 📈 **Datasets Included**
 
-1. **Forex Pairs**: Major and minor currency pairs with global relevance.
+1. ## Forex Pairs Included
+
+- EUR/NZD
+- EUR/USD
+- GBP/AUD
+- GBP/CAD
+- GBP/CHF
+- GBP/JPY
+- GBP/USD
+- NZD/USD
+- USD/CAD
+- USD/CHF
+- USD/JPY
+- AUD/CAD
+- AUD/CHF
+- AUD/USD
+- EUR/AUD
+- EUR/CAD
+- EUR/CHF
+- EUR/GBP
+- EUR/JPY
+
 2. **Commodities**: Including but not limited to:
    - Gold
    - Silver
