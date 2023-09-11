@@ -1,6 +1,4 @@
-# FREE-Financial-Time-Series-Data-Features
-
-# Financial Data Repository
+# Financial-Time-Series-Data-Features  -  FREE Repository
 
 Welcome to our open-source financial data repository! This repository provides historical data sampled across different timeframes, encompassing a broad range of financial instruments. Our aim is to offer a comprehensive dataset for researchers, traders, and anyone interested in financial market analysis.
 
