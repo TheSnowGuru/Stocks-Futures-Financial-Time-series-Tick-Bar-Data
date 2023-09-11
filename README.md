@@ -41,7 +41,7 @@ Welcome to our open-source financial data repository! This repository provides h
    - FTSE 100
    - DAX
 5. **Cryptocurrency Pairs**: A selection of the most traded crypto pairs.
-6. **Additional Data** (coming soon): We're exploring the possibility of adding tick data to offer an even higher granularity.
+6. **Tick Data** - Added only S&P futures tick data , make sure to add zip files to the tick data folders.
 
 ## 🕰️ **Timeframes**
 
