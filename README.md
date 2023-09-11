@@ -1,4 +1,4 @@
-# FREE-Financial-Time-Series-Data-Features
+# Financial-Time-Series-Data-Features  -  FREE
 
 # Financial Data Repository
 
